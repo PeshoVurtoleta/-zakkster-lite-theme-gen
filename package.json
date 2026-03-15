@@ -1,7 +1,7 @@
 {
   "name": "@zakkster/lite-theme-gen",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Professional OKLCH theme generation from a single brand color. Tailwind-style scales, semantic tokens, CSS variables.",
   "type": "module",
   "main": "ThemeGen.js",
