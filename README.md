@@ -12,7 +12,7 @@ Generate a complete design system from a single OKLCH brand color.
 **One color in. Neutral scale, accent scale, semantic tokens, contrast-guaranteed text, and CSS custom properties out.**
 
 ## 🎬 Live Demo (ThemeGen)
-https://codepen.io/editor/Zahari-Shinikchiev/pen/019cea99-dcd8-714b-afce-4a9ffa85b114
+https://codepen.io/editor/Zahari-Shinikchiev/full/019cea99-dcd8-714b-afce-4a9ffa85b114
 
 ## Why This Library?
 
