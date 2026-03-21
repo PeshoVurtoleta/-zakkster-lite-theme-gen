@@ -1,7 +1,7 @@
 {
   "name": "@zakkster/lite-theme-gen",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Professional OKLCH theme generation from a single brand color. Tailwind-style scales, semantic tokens, CSS variables.",
   "type": "module",
   "main": "ThemeGen.js",
@@ -22,6 +22,15 @@
   "peerDependencies": {
     "@zakkster/lite-color": "^1.0.0",
     "@zakkster/lite-lerp": "^1.0.0"
+  },
+  "homepage": "https://github.com/PeshoVurtoleta/lite-theme-gen#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeshoVurtoleta/lite-theme-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PeshoVurtoleta/lite-theme-gen/issues",
+    "email": "shinikchiev@yahoo.com"
   },
   "keywords": [
     "theme",
